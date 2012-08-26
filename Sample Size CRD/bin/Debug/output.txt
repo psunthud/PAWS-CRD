@@ -1,0 +1,30 @@
+PAWS-CRD
+version 1.0 (February 2010)
+Developers: Sunthud Pornprasertmanit & W. Joel Schneider
+
+
+TYPE OF ANALYSIS:	Two-level Cluster Randomized Design (A priori analysis)
+
+################################CRITERIA################################
+
+Criterion Used:	1. Minimize the Total Number of Individuals with a Specified Power or Width
+Power/CIES
+	Width of CI of ES:	0.250
+	CI Level:	0.95
+	Degree of Certainty:	Yes (0.900)
+Pre-specify result
+	Number of Individuals in each Cluster:		25
+Effect Size:					0.500
+Intraclass Correlation of Y:			0.050
+No Covariate
+Used a priori Monte Carlo simulation:	No
+
+################################RESULTS################################
+
+Number of Treatment Groups:	55
+Number of Control Groups:	54
+Number of Individuals in Each Group:	25
+Power:	1.000
+95% Width of CI of ES:	0.229  (0.386, 0.614)
+99% Width of CI of ES:	0.300  (0.350, 0.650)
+
