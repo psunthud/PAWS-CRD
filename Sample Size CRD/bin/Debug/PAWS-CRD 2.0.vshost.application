@@ -14,14 +14,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\PAWS-CRD 2.0_2_0_0_1\PAWS-CRD 2.0.exe.manifest" size="4294">
+    <dependentAssembly dependencyType="install" codebase="PAWS-CRD 2.0.exe.manifest" size="4294">
       <assemblyIdentity name="PAWS-CRD 2.0.exe" version="2.0.0.1" publicKeyToken="0000000000000000" language="en-US" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xEP2ltHA003fBAqH6vb1O7DTAuE=</dsig:DigestValue>
+        <dsig:DigestValue>CHnB7cos4vCjr5s6mxRzirQ2u6w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

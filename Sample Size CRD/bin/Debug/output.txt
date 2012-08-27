@@ -7,24 +7,28 @@ TYPE OF ANALYSIS:	Two-level Cluster Randomized Design (A priori analysis)
 
 ################################CRITERIA################################
 
-Criterion Used:	1. Minimize the Total Number of Individuals with a Specified Power or Width
+Criterion Used:	2. Minimize the Cost with a Specified Power or Width
 Power/CIES
-	Width of CI of ES:	0.250
-	CI Level:	0.95
-	Degree of Certainty:	Yes (0.900)
+	Power:	0.800
+Cost
+	Treatment Group Cost:		600.000
+	Treatment Individual Cost:	2.000
+	Control Group Cost:		300.000
+	Control Individual Cost:	2.000
 Pre-specify result
 	Number of Individuals in each Cluster:		25
-Effect Size:					0.500
+Effect Size:					0.200
 Intraclass Correlation of Y:			0.050
 No Covariate
 Used a priori Monte Carlo simulation:	No
 
 ################################RESULTS################################
 
-Number of Treatment Groups:	55
-Number of Control Groups:	54
+Number of Treatment Groups:	32
+Number of Control Groups:	42
 Number of Individuals in Each Group:	25
-Power:	1.000
-95% Width of CI of ES:	0.229  (0.386, 0.614)
-99% Width of CI of ES:	0.300  (0.350, 0.650)
+Total Cost:	35500
+Power:	0.800
+95% Width of CI of ES:	0.280  (0.060, 0.340)
+99% Width of CI of ES:	0.368  (0.016, 0.384)
 

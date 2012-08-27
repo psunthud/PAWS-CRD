@@ -1491,7 +1491,7 @@ Public Class Main
                     End If
                 End If
             End If
-            If (PowerOrWidthValue = 2 & DegreeOfCertaintyValue <> -1) Then
+            If (PowerOrWidthValue = 2 And DegreeOfCertaintyValue <> -1) Then
                 DesiredVar = FindVarForWidth(WidthValue, CILevelValue, DegreeOfCertaintyValue, result(0) + result(1), checkCovariate.Checked)
                 If checkCovariate.Checked = True Then
                     If (Criteria.PCheckBox.Checked = True) Then
